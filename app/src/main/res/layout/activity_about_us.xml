@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/about"
+    tools:context=".AboutUsActivity">
+   <!-- <EditText
+        android:id="@+id/editText"
+        android:layout_width="172dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="4dp"
+        android:background="#FFFDE7"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="ASHWIN  THOMAS"
+        android:textColor="?android:attr/colorBackgroundCacheHint"
+        android:textStyle="bold|italic"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="181dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="192dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="16dp"
+        android:background="#99141414"
+        android:ems="10"
+        android:inputType="number"
+        android:text="8108915447"
+        android:textColor="?android:attr/colorBackground"
+        android:textStyle="bold|italic"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="207dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:textColor="@android:color/white"
+        android:background="#99141414"
+
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="PURVESH JAIN"
+        android:textStyle="bold|italic"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="464dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:textColor="@android:color/white"
+        android:background="#99141414"
+
+        android:ems="10"
+        android:inputType="number"
+        android:text="9987795559"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:textColor="@android:color/white"
+        android:background="#99141414"
+
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="VIKAS MAURYA"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="215dp"
+        tools:layout_editor_absoluteY="181dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editText6"
+        android:layout_width="wrap_content"
+        android:layout_height="39dp"
+        android:textColor="@android:color/white"
+        android:background="#99141414"
+
+        android:ems="10"
+        android:inputType="number"
+        android:text="9136509352"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="215dp"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="wrap_content"
+        android:layout_height="33dp"
+        android:background=""
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="SAURAB AMRUTKAR"
+        android:textColor="?android:attr/colorBackground"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="188dp"
+        tools:layout_editor_absoluteY="469dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editText8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background=""
+        android:ems="10"
+        android:inputType="number"
+        android:text="9403052431"
+        android:textColor="?android:attr/colorBackground"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="198dp" />
+
+    <EditText
+        android:id="@+id/editText9"
+        android:layout_width="wrap_content"
+        android:layout_height="108dp"
+        android:background=""
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="we are b.tech pursuing ,students who aspired to make socitey a better place for including specially abled"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="247dp"
+        tools:ignore="MissingConstraints" />
+-->
+</android.support.constraint.ConstraintLayout>
